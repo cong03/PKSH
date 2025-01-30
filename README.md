@@ -29,7 +29,6 @@ Regarding the startup of PKSH, it is possible to start PKSHA with ```python TIS.
 
 
 ## Datasets
-We will collate and give the dataset and the pre-processing procedure later.
-
+We will post our processing method and dataset later as the dataset is too large.
 ## Evaluation
 You are able to evaluate the electric field focusing method inside the Evaluation folder.
